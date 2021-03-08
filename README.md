@@ -1,0 +1,2 @@
+# TicTacTwo
+It is a modified version of the classical two-player game Tic Tac Toe implemented in JAVA, developed only for Android Devices. In this game initially, each player has three blocks, and they have to put these blocks in a 3x3 matrix one by one or have to move any of the placed blocks to an adjacent cell, and the one who first can put all his blocks in a sequence (horizontal, vertical, or diagonal) wins the game.
